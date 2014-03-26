@@ -8,7 +8,9 @@ We had the need to get Our HP 6500 Desktop Printer alive on Our RPI Print server
 Thus re created simply an RPM build  for that based on Opensuse 13.1 ARM - Raspberry PI
 
 
--  laseryet adn Ink printers enabled
+-  laseryet enabled
+-  Ink enabled
+-  scanners enabled
 -  GUI Build disabled due not required on an Headless Printer Server 
 
 
