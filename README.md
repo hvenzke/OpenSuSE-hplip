@@ -7,7 +7,7 @@ Orign source from hplip-3.14.3.run downloaded from http://hplipopensource.com/hp
 We had the need to get Our HP 6500 Desktop Printer alive on Our RPI Print server with Samba and CUPS.
 Thus re created simply an RPM build  for that based on Opensuse 13.1 ARM - Raspberry PI
 
- OSS currently not provide  This on Arm .
+ OSS currently not provide  This on Arm .<br>
  How to setup an HP Printer on OSS see here : https://en.opensuse.org/SDB:How_to_set-up_a_HP_printer
 
 
