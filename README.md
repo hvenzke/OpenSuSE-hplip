@@ -47,4 +47,9 @@ BUILD Options :
    
    
    The RPM / SRPM simply provide  all nesseary Driver  materials for Most HP Printers .
+   
+   ChangeLog:
+   27.3.2014 - hplip release 3.14.5 rpmbuild for OSS 13.1 completed.
+   
+   
   
