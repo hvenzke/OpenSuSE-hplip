@@ -19,32 +19,32 @@ Thus re created simply an RPM build  for that based on Opensuse 13.1 ARM - Raspb
 
 
   SPEC & Build Project  Info are here .<br>
-  The Build for Raspberry PI RPM & SRPM created for Opensuse 13.1 RPI arm<br>
-  are stored at Our Drop Box URL https://www.dropbox.com/sh/ofpzj8u3j2v43zq/mqoFqLLzQB<br>
+  The Build for Raspberry PI RPM & SRPM created for Opensuse 13.1 RPI arm <br>
+  are stored at Our Drop Box URL https://www.dropbox.com/sh/ofpzj8u3j2v43zq/mqoFqLLzQB <br>
 
 
 
 BUILD Options :
 
-   --prefix=/usr \<br>
-   --enable-scan-build \<br>
-   --enable-network-build \<br>
-   --enable-foomatic-ppd-install \<br>
-   --enable-policykit \<br>
-   --disable-gui-build \<br>
-   --enable-new-hpcups \<br>
-   --with-cupsbackenddir=/usr/lib/cups/backend \<br>
-   --with-cupsfilterdir=/usr/lib/cups/filter \<br>
-   --enable-foomatic-drv-install \<br>
-   --enable-foomatic-ppd-install \<br>
-   --enable-foomatic-rip-hplip-install \<br>
-   --enable-hpijs-install \<br>
-   --enable-hpcups-install \<br>
-   --enable-cups-drv-install \<br>
-   --enable-cups-ppd-install \<br>
-   --with-hpppddir=%{_datadir}/cups/model/HP \<br>
-   PYTHON=%{__python}<br>
+   --prefix=/usr \  <br>
+   --enable-scan-build \  <br>
+   --enable-network-build \  <br>
+   --enable-foomatic-ppd-install \  <br>
+   --enable-policykit \  <br>
+   --disable-gui-build \  <br>
+   --enable-new-hpcups \  <br>
+   --with-cupsbackenddir=/usr/lib/cups/backend \  <br>
+   --with-cupsfilterdir=/usr/lib/cups/filter \  <br>
+   --enable-foomatic-drv-install \  <br>
+   --enable-foomatic-ppd-install \  <br>
+   --enable-foomatic-rip-hplip-install \  <br>
+   --enable-hpijs-install \  <br>
+   --enable-hpcups-install \  <br>
+   --enable-cups-drv-install \  <br>
+   --enable-cups-ppd-install \  <br>
+   --with-hpppddir=%{_datadir}/cups/model/HP \  <br>
+   PYTHON=%{__python}  <br>
    
    
    The RPM / SRPM simply provide  all nesseary Driver  materials for Most HP Printers .
-   <br>
+  
