@@ -12,8 +12,9 @@ Thus re created simply an RPM build  for that based on Opensuse 13.1 ARM - Raspb
 -  GUI Build disabled due not required on an Headless Printer Server 
 
 
-  SPEC & Build Project  Info at  https://github.com/remsnet/OpenSuSE-hplip/tree/master
-  The Build for Raspberry PI SRPM are stored at Our Drop Box URL https://www.dropbox.com/sh/ofpzj8u3j2v43zq/mqoFqLLzQB
+  SPEC & Build Project  Info are here .
+  The Build for Raspberry PI RPM & SRPM created for Opensuse 13.1 RPI arm
+  are stored at Our Drop Box URL https://www.dropbox.com/sh/ofpzj8u3j2v43zq/mqoFqLLzQB
 
 
 
